@@ -1,5 +1,4 @@
-# Real-Time-Human-Detection-Counting
-# ✔ REAL TIME HUMAN DETECTION & COUNTING
+## ✔ REAL TIME HUMAN DETECTION & COUNTING
 - An application which allows to detect human or people's in any image, video or even through Camera.
 - Also along with detecting, it also counts the maximum no. of people appeared.
 - It also visualize the data of no. of human detected and the avg. accuracy with which humans got detected w.r.t. time, using graph plot.
@@ -44,4 +43,48 @@
 - Then the script will start running and user can explore it by detecting the human and also getting the count of it.
 
 ****
+
+### SCREENSHOTS :
+
+<p align="center">
+  <img width = 1000 src="Screenshots/1.jpg" /><br>
+  <img width = 1000 src="Screenshots/2.jpg" /><br>
+</p>
+
+- #### Image:
+
+<p align="center">
+  <img width = 1000 src="Screenshots/3.jpg" /><br>
+  <img width = 1000 src="Screenshots/4.jpg" /><br>
+  <img width = 1000 src="Screenshots/5.jpg" /><br>
+  <img width = 1000 src="Screenshots/6.jpg" /><br>
+  <img width = 1000 src="Screenshots/7.jpg" /><br>
+  <img width = 1000 src="Screenshots/8.jpg" /><br>
+  <img width = 1000 src="Screenshots/9.jpg" /><br>
+  <img width = 1000 src="Screenshots/10.jpg" /><br>
+  <img width = 1000 src="Screenshots/11.jpg" /><br>
+  <img width = 1000 src="Screenshots/12.jpg" /><br>
+</p>
+
+- #### Video:
+
+<p align="center">
+  <img width = 1000 src="Screenshots/13.jpg" /><br>
+  <img width = 1000 src="Screenshots/14.jpg" /><br>
+  <img width = 1000 src="Screenshots/15.jpg" /><br>
+  <img width = 1000 src="Screenshots/16.jpg" /><br>
+  <img width = 1000 src="Screenshots/17.jpg" /><br>
+</p>
+
+- #### Camera:
+
+<p align="center">
+  <img width = 1000 src="Screenshots/18.jpg" /><br>
+  <img width = 1000 src="Screenshots/19.jpg" /><br>
+  <img width = 1000 src="Screenshots/20.jpg" /><br>
+  <img width = 1000 src="Screenshots/21.jpg" /><br>
+  <img width = 1000 src="Screenshots/22.jpg" /><br>
+  <img width = 1000 src="Screenshots/23.jpg" /><br>
+</p>
+
 
